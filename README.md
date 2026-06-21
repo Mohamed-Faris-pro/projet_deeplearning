@@ -14,7 +14,7 @@ L'objectif de ce projet est de concevoir, implémenter et analyser différentes 
 2. **Partie II - Réseaux Convolutifs (CNN) :** Vision par ordinateur et extraction de *Feature Maps* (*Fashion-MNIST*).
 3. **Partie III - Réseaux Récurrents (Seq2Seq / GRU) :** Modélisation séquentielle et traduction automatique avec Beam Search (*Tatoeba*).
 
-## 🛠️ Technologies Utilisées
+##  Technologies Utilisées
 * **Langage :** Python 3
 * **Framework :** PyTorch
 * **Data Science :** Scikit-learn, Torchvision
