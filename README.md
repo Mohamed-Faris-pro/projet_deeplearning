@@ -6,7 +6,7 @@ Ce dépôt contient l'intégralité de mon projet de fin de module en Deep Learn
 L'objectif de ce projet est de concevoir, implémenter et analyser différentes architectures de réseaux de neurones (MLP, CNN, RNN/Seq2Seq) adaptées à trois types de données distinctes, en utilisant le framework **PyTorch**.
 
 ##  Contenu du Dépôt
-- `notebook_projet_dl.ipynb` : Le code source complet exécutable sous Google Colab (Entraînements, évaluations, visualisations).
+- `projet_dl.ipynb` : Le code source complet exécutable sous Google Colab (Entraînements, évaluations, visualisations).
 - `rapport_projet_dl.pdf` : Le rapport scientifique détaillé incluant la méthodologie, l'analyse comparative des modèles et la discussion critique.
 
 ##  Architectures Explorées
